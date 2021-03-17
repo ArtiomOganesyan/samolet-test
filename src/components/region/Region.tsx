@@ -25,7 +25,6 @@ export const Region = () => {
 
     const history = useHistory();
 
-    console.log({ order, context });
     return (
         <div className="region">
             <Descriptions title="Regional Information" layout="vertical">
